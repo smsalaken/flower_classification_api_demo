@@ -1,0 +1,7 @@
+instructions.txt
+
+
+conda create -n demo_bangla
+source activate demo_bangla
+conda install python pandas numpy flask scikit-learn matplotlib seaborn
+conda list
